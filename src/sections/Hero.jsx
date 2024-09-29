@@ -26,7 +26,7 @@ const Hero = () => {
     >
       <div className="lg:w-[80%] w-[90%] m-auto lg:h-[800px] lg:py-[0px] py-[40px] h-fit flex flex-col justify-center lg:items-start items-center gap-6">
         <h1
-          className="lg:text-[80px] text-[60px] font-Lobster text-red-600 font-semibold leading-[70px]"
+          className="lg:text-[80px] text-[60px] font-Lobster text-primary font-semibold leading-[70px]"
           data-aos="zoom-in"
           data-aos-delay="200"
         >
@@ -37,7 +37,7 @@ const Hero = () => {
           data-aos="zoom-in"
           data-aos-delay="400"
         >
-          ICE CREAM SHOP
+          ICE CREAM MENU
         </h1>
         <div
           className="grid lg:grid-cols-3 grid-cols-1 gap-3 lg:w-[60%] w-full mt-3"

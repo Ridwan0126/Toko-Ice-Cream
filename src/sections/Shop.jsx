@@ -15,7 +15,7 @@ const Shop = () => {
   return (
     <div
       id="shop"
-      className="w-full lg:px-[150px] px-[60px] lg:pt-[150px] pt-[60px] pb-[0px] bg-gray-300 flex lg:flex-row flex-col justify-center items-start"
+      className="w-full lg:px-[150px] px-[60px] lg:pt-[150px] pt-[60px] pb-[0px] bg-fourth flex lg:flex-row flex-col justify-center items-start"
     >
       <div className="lg:w-[50%] w-full">
         <img
@@ -30,7 +30,7 @@ const Shop = () => {
         <div
           data-aos="slide-down"
           data-aos-delay="400"
-          className="bg-red-600 p-12 lg:w-[70%] w-full flex flex-col justify-center items-start gap-5"
+          className="bg-secondary p-12 lg:w-[70%] w-full flex flex-col justify-center items-start gap-5"
         >
           <h1 className="text-white text-[30px] font-Lobster">Online Shop</h1>
           <p className="text-white text-[50px] font-light leading-[50px]">
@@ -51,7 +51,7 @@ const Shop = () => {
             provident soluta autem, iusto cumque. Ducimus laboriosam repudiandae
             temporibus quas consequatur!
           </p>
-          <button className="bg-red-600 px-10 py-3 text-white rounded-full font-semibold">
+          <button className="bg-secondary px-10 py-3 text-white rounded-full font-semibold">
             REACH US
           </button>
         </div>

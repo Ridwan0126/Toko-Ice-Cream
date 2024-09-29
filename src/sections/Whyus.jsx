@@ -15,7 +15,7 @@ const Whyus = () => {
   return (
     <div
       id="why us"
-      className=" w-full lg:px-[170px] px-[20px] py-[80px] bg-gray-300 flex lg:flex-row flex-col justify-center items-start"
+      className=" w-full lg:px-[170px] px-[20px] py-[80px] bg-fourth flex lg:flex-row flex-col justify-center items-start"
     >
       <div
         data-aos="slide-right"
@@ -29,7 +29,7 @@ const Whyus = () => {
           perspiciatis, autem enim quibusdam unde exercitationem alias esse
           quidem qui perferendis.
         </p>
-        <button className="bg-red-600 px-10 py-3 text-white rounded-full font-semibold">
+        <button className="bg-secondary px-10 py-3 text-white rounded-full font-semibold">
           READ MORE
         </button>
       </div>

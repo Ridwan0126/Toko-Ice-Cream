@@ -8,6 +8,10 @@ export default {
       },
       colors: {
         customgray: "#59427a",
+        primary: "#c83349",
+        secondary: "#e06377",
+        tertiary: "#eeac99",
+        fourth: "#f9d5e5",
       },
     },
   },

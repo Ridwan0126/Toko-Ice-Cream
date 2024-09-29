@@ -16,7 +16,7 @@ const About = () => {
   return (
     <div
       id="about"
-      className="w-full lg:px-[120px] px-[20px] py-[80px] bg-gray-600 flex lg:flex-row flex-col justify-center items-start gap-[70px]"
+      className="w-full lg:px-[120px] px-[20px] py-[80px] bg-primary flex lg:flex-row flex-col justify-center items-start gap-[70px]"
     >
       <div
         className="flex flex-col justify-center items-start gap-[30px]"
@@ -32,7 +32,7 @@ const About = () => {
           sequi, reiciendis dolores. Porro voluptatibus id nisi harum, quae
           fugit!
         </p>
-        <button className="bg-red-600 px-10 py-3 text-white rounded-full font-semibold">
+        <button className="bg-tertiary px-10 py-3 text-white rounded-full font-semibold">
           READ MORE
         </button>
       </div>
